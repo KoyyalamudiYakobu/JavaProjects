@@ -6,7 +6,7 @@ public class ClassA
 	public void methodone()
 
 	{
-		System.out.println(" hii im method one in  classA");
+		System.out.println("     hii im method one in  classA");
 	}
 	
 	public void methodtwo()
